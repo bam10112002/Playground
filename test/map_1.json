@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "matrix": [
+    [ "EMPTY" , "EMPTY" , "EMPTY" , "EMPTY", "EMPTY" , "EMPTY" , "EMPTY" , "EMPTY", "FOREST" ],
+    [ "EMPTY" , "EMPTY" , "WALL" , "EMPTY", "EMPTY" , "EMPTY" , "EMPTY" , "EMPTY", "FOREST" ],
+    [ "EMPTY" , "FOREST" , "FOREST" , "WALL", "WALL" , "EMPTY" , "EMPTY" , "EMPTY", "FOREST" ],
+    [ "EMPTY" , "EMPTY" , "EMPTY" , "FOREST", "WALL" , "EMPTY" , "EMPTY" , "EMPTY", "FOREST" ],
+    [ "FOREST" , "EMPTY" , "EMPTY" , "EMPTY", "WALL" , "EMPTY" , "EMPTY" , "EMPTY", "FOREST" ],
+    [ "EMPTY" , "FOREST" , "WALL" , "EMPTY", "WALL" , "EMPTY" , "EMPTY" , "EMPTY", "FOREST" ]
+  ]
+}
