@@ -8,7 +8,7 @@
 
 #include <QDebug>
 #include "sourse_map.h"
-#include "json/single_include/nlohmann/json.hpp"
+#include "../json/single_include/nlohmann/json.hpp"
 
 class Cell;
 class A_Map;

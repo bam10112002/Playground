@@ -1,4 +1,4 @@
-#include "a_map.h"
+#include "../include/a_map.h"
 
 std::map<std::string, Cell::Cell_Type> Cell::convert =
 {

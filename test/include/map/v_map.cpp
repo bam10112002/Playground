@@ -1,4 +1,4 @@
-#include "v_map.h"
+#include "../include/v_map.h"
 
 V_Map::V_Map(QGraphicsItemGroup* group, const std::string & map_file_name,const  std::string & collection_file_name)
 {

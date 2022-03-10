@@ -10,7 +10,7 @@
 
 #include <string>
 #include <fstream>
-#include "json/single_include/nlohmann/json.hpp"
+#include "../json/single_include/nlohmann/json.hpp"
 #include "v_map.h"
 
 class MyGraphicView : public QGraphicsView

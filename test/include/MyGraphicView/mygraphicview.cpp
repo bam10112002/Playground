@@ -76,4 +76,3 @@ void MyGraphicView::createMapView(std::string mapName)
 
 
 }
-
